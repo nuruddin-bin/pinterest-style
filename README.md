@@ -1,4 +1,3 @@
 # pinterest-style
-##Demo
-
+## demo
 https://nuruddin-bin.github.io/pinterest-style/
